@@ -4,6 +4,9 @@
         <ul>
             <li>text</li>
         </ul>
+        <div style="display: flex; padding: 20px; height: 10px; width: 566px; margin-bottom: 10px; background: #151515; border-radius: 10px;">
+            <p style="margin: auto; font-size: 28px; line-height: 28px; margin-top: -9px; color: white;">Trzynu</p>
+        </div>
     </div>
 </foreignObject>
 </svg>
