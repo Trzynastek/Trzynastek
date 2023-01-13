@@ -7,13 +7,6 @@
         <div style="display: flex; padding: 20px; height: 36px; width: 566px; margin-bottom: 10px; background: #151515; border-radius: 10px;">
             <p style="margin: auto; font-size: 18px; line-height: 22px; margin-top: -4px; color: white;">Hello, my name is Trzynu and I am a self-taught front-end developer and UI designer. I specialize in web and Python development.</p>
         </div>
-        <div style="display: flex;">
-            <div>
-                <a href="https://open.spotify.com/user/Trzynu">
-                    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yeckirv4x7qhwarqoqdqllbyf" width="400px" style="border-radius: 10px;"/>
-                </a>
-            </div>
-        </div>
     </div>
 </foreignObject>
 </svg>
