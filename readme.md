@@ -5,4 +5,4 @@
 ![](3.svg)
 ![https://atlas-azure.vercel.app](4.svg)
 ![https://key-test.vercel.app](5.svg)
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="611px"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="620px"/>
