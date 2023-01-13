@@ -1,10 +1,10 @@
 <svg width="847" height="95" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="847" height="95">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <div style="display: flex; padding: 20px; height: 55px; width: 583px; background: #151515;">
-            <ul style="margin: auto; color: white; font-weight: 700;">
+        <div style="display: flex; padding: 20px; height: 55px; width: 583px; background: #151515; border-radius: 10px;">
+            <ul style=" color: white; font-weight: 700; margin-top: 0;">
                 <li style="cursor: pointer;">KeyType</li>
-                <p style="font-weight: 500; color: grey; margin-left: -18px;">Test your typing speed in style.</p>
+                <p style="font-weight: 500; color: grey; margin-left: -18px;">Typing speed test.</p>
             </ul>
         </div>
     </div>
