@@ -1,5 +1,5 @@
 ![](1.svg)
-[![](https://spotify-recently-played-readme.vercel.app/api?user=yeckirv4x7qhwarqoqdqllbyf)](https://open.spotify.com/user/Trzynu)
+[![](https://spotify-recently-played-readme.vercel.app/api?user=yeckirv4x7qhwarqoqdqllbyf)](https://open.spotify.com/user/yeckirv4x7qhwarqoqdqllbyf)
 [![](2.svg)](https://ko-fi.com/trzynu)
 </br>
 ![](3.svg)
