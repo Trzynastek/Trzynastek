@@ -13,14 +13,6 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
             </div>
-            <div style="display: flex; flex-direction: column; align-items: center; background: #151515; border-radius: 0 0 10px 10px; margin-left: 10px; padding-bottom: 18px;">
-                <a href="https://paypal.me/trzynu">
-                    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal" style="border-radius: 10px;"/>
-                </a>
-                <a href="https://ko-fi.com/trzynu">
-                    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="kofi" style="border-radius: 10px;"/>
-                </a>
-            </div>
         </div>
     </div>
 </foreignObject>
