@@ -1,7 +1,7 @@
 <svg width="847" height="99" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="847" height="99">
     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; margin-bottom: 4px;">
-        <div style="display: flex; padding: 20px; height: 55px; width: 468px; background: #151515; border-radius: 10px;">
+        <div style="display: flex; padding: 20px; height: 55px; width: 466px; background: #151515; border-radius: 10px;">
             <ul style=" color: white; font-weight: 700; margin-top: 0;">
                 <li style="cursor: pointer;">KeyTest</li>
                 <p style="font-weight: 500; color: grey; margin-left: -18px;">Typing speed test.</p>
