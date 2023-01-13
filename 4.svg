@@ -1,6 +1,6 @@
 <svg width="847" height="95" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="847" height="95">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex;">
         <div style="display: flex; padding: 20px; height: 55px; width: 518px; background: #151515; border-radius: 10px;">
             <ul style=" color: white; font-weight: 700; margin-top: 0;">
                 <li style="cursor: pointer;">Atlas</li>
