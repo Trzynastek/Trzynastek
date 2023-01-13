@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://ko-fi.com/trzynu">
-    <img onclick="location.href='https://paypal.me/trzynu'" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="paypal"/>
+    <img onclick="location.href='https://paypal.me/trzynu'" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="paypal"/>
     <img onclick="location.href='https://ko-fi.com/trzynu'" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="210" alt="kofi"/>
   </a>
 </div>
