@@ -6,8 +6,3 @@
 ![https://atlas-azure.vercel.app](4.svg)
 ![https://key-test.vercel.app](5.svg)
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="610px"/>
-<div>
-  <img src=3.svg/>
-  <img src=4.svg/>
-  <img src=5.svg/>
-</div>
