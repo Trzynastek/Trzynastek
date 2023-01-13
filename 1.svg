@@ -5,7 +5,7 @@
             <p style="margin: auto; font-size: 28px; line-height: 28px; margin-top: -9px; color: white;">Trzynu</p>
         </div>
         <div style="display: flex; padding: 20px; height: 36px; width: 566px; margin-bottom: 10px; background: #151515; border-radius: 10px;">
-            <p style="margin: auto; font-size: 18px; line-height: 22px; margin-top: -4px; color: white;">Hello, my name is Trzynu and I am a self-taught front-end developer and UI designer. I specialize in web and Python development.</p>
+            <p style="margin: auto; font-size: 16px; line-height: 22px; margin-top: -4px; color: white;">Hello, my name is Trzynu and I am a self-taught front-end developer and UI designer. I specialize in web and Python development.</p>
         </div>
     </div>
 </foreignObject>
