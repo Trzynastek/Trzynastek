@@ -5,5 +5,5 @@
 </br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="250px"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="607px"/>
 ![](3.svg)
