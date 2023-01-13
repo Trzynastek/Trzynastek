@@ -2,7 +2,7 @@
 <foreignObject width="847" height="95">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <div style="display: flex; padding: 20px; height: 55px; width: 583px; background: #151515;">
-            <ul style="margin: auto; color: white; font-weight: 700;">
+            <ul style="margin: auto; margin-left: calc(auto - 10px);color: white; font-weight: 700;">
                 <li onclick="location.href='https://atlas-azure.vercel.app'" style="cursor: pointer;">Atlas</li>
                 <p style="font-weight: 500; color: grey; margin-left: -18px;">Verified pirated games library.</p>
             </ul>
