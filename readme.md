@@ -3,5 +3,5 @@
 ![https://open.spotify.com/user/Trzynu](https://spotify-recently-played-readme.vercel.app/api?user=yeckirv4x7qhwarqoqdqllbyf)
 ![https://ko-fi.com/trzynu](2.svg)
 </br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="607px"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="610px"/>
 ![](3.svg)
