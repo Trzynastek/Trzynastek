@@ -16,5 +16,5 @@
   <a href="https://open.spotify.com/user/Trzynu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=yeckirv4x7qhwarqoqdqllbyf" alt="Spotify recently played"  />
   </a>
-  <a href="https://ko-fi.com/trzynu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="trzynu" /></a>
+  <a href="https://ko-fi.com/trzynu"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="trzynu"/></a>
 </div>
