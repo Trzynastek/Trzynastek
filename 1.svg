@@ -1,11 +1,15 @@
 <svg width="610" height="157" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="610" height="153">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <div style="display: flex; padding: 20px; height: 10px; width: 570px; margin-bottom: 10px; background: #151515; border-radius: 10px;">
-            <p style="margin: auto; font-size: 28px; line-height: 28px; margin-top: -9px; color: white;">Trzynu</p>
+        <div style="display: flex; padding: 20px; height: 10px; width: 570px; margin-bottom: 10px; background: #151515; border-radius: 10px; justify-content: center; align-items: center;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="99" height="33" viewBox="0 0 99 33">
+                <text id="Trzynu" transform="translate(0 26)" fill="#fff" font-size="28" font-family="Cascadia Code"><tspan x="0" y="0">Trzynu</tspan></text>
+            </svg>
         </div>
-        <div style="display: flex; padding: 20px; height: 54px; width: 570px; margin-bottom: 10px; background: #151515; border-radius: 10px;">
-            <p style="margin: auto; font-size: 16px; line-height: 22px; margin-top: -4px; color: white;">Hello, my name is Trzynu and I am a self-taught front-end developer and UI designer. I specialize in web and Python development.</p>
+        <div style="display: flex; padding: 20px; height: 54px; width: 570px; margin-bottom: 10px; background: #151515; border-radius: 10px; justify-content: center; align-items: center;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="549" height="97" viewBox="0 0 549 97" style="margin-top: 30px;">
+                <text id="Hello_my_name_is_Trzynu_and_I_am_a_self-taught_front-end_developer_and_UI_designer._I_specialize_in_web_and_Python_development." data-name="Hello, my name is Trzynu and I am a self-taught front-end developer and UI designer. I specialize in web and Python development." fill="#fff" font-size="16" font-family="Cascadia Code"><tspan x="0" y="15">Hello, my name is Trzynu and I am a self-taught front-end </tspan><tspan x="0" y="37">developer and UI designer. I specialize in web and Python </tspan><tspan x="0" y="59">development.</tspan></text>
+            </svg>
         </div>
     </div>
 </foreignObject>
