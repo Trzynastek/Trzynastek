@@ -3,6 +3,6 @@
 [![](2.svg)](https://ko-fi.com/trzynu)
 </br>
 ![](3.svg)
-[![](4.svg)]([https://atlas-azure.vercel.app)
+[![](4.svg)](https://atlas-azure.vercel.app)
 [![](5.svg)](https://key-test.vercel.app)
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="611px" height="200px"/>
