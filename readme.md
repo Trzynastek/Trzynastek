@@ -16,7 +16,7 @@
 #### trzynu:~$ tree projects
 projects \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──[PixelPage](https://github.com/Trzynastek/PixelPage) \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├Minimal start page for your browser. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├Minimal start page for your browser. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└HTML, CSS, JS \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──[Atlas](https://atlas-azure.vercel.app) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─Vefified pirated games library.\
