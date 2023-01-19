@@ -24,12 +24,12 @@ projects \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──[KeyTest](https://key-test.vercel.app) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─Typing speed test. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─HTML, CSS, JS 
-Projects/
-├── PixelPage/
-│   ├── Minalam start page for your browser.
-│   └── HTML, CSS, JS
-├── Atlas/
-│   ├── Verified pirated games library.
-│   └── HTML, CSS, JS
-└── KeyTest/
-    └── Typing speed test.
+Projects \
+├── PixelPage \
+│   ├── Minalam start page for your browser. \
+│   └── HTML, CSS, JS \
+├── Atlas \
+│   ├── Verified pirated games library. \
+│   └── HTML, CSS, JS \
+└── KeyTest \
+    └── Typing speed test. \
