@@ -1,6 +1,6 @@
 #### trzynu:~$ whoami
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mateusz Socha \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17 \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Country:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poland \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PL / EN 
 #### trzynu:~$ env
