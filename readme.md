@@ -10,11 +10,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python 
 #### trzynu:~$ apt list
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adobe XD \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adobe Photoshop \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adobe After effects 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lunacy \
 #### trzynu:~$ tree projects
 projects \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkpage](https://trzynu-links.vercel.app) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A collection of my social media links. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, JS \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio](https://trzynu.vercel.app) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My personal portfolio. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, JS \
