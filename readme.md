@@ -18,6 +18,6 @@ projects \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio](https://trzynu.vercel.app) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My personal portfolio. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PixelPage 2.0](https://github.com/Trzynastek/PixelPage2.0) \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simple and neat homepage for firefox. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simple and neat homepage for Firefox. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ArcticFloorp](https://github.com/Trzynastek/ArcticFloorp) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arc browser inspired theme for the Floorp browser.
