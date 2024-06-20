@@ -15,16 +15,7 @@
 projects \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkpage](https://trzynu-links.vercel.app) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A collection of my social media links. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, JS \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio](https://trzynu.vercel.app) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My personal portfolio. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, JS \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PixelPage](https://github.com/Trzynastek/PixelPage) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minimal start page for your browser. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, JS \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Atlas](https://atlas-azure.vercel.app) \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vefified pirated games library.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, JS \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KeyTest](https://key-test.vercel.app) \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typing speed test. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, JS 
