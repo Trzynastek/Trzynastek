@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python 
 #### trzynu:~$ apt list
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lunacy \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lunacy
 #### trzynu:~$ tree projects
 projects \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkpage](https://trzynu-links.vercel.app) \
