@@ -1,11 +1,8 @@
 <p>
-  <img src="assets/Namecard.svg" align="left"/>
-  <img src="assets/Country.svg" align="right"/>
+  <!-- <img src="assets/Namecard.svg" align="left"/> -->
+  <img src="assets/Namecard.svg" />
+  <!-- <img src="assets/Country.svg" align="right"/> -->
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
 <p>
   <a href="https://x.com/trzynu"><img src="assets/Twitter.svg" /></a>
   <a href="https://trzynu.dev/"><img src="assets/Website.svg" /></a>
